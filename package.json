@@ -1,0 +1,11 @@
+{
+  "name": "arcdevkit",
+  "version": "0.1.0",
+  "description": "TypeScript toolkit for Arc",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["arc", "typescript", "blockchain"],
+  "license": "MIT"
+}
